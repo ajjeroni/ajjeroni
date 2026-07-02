@@ -24,7 +24,7 @@
 ---
 
 ### About Me  
-- **🎓 CS @ CSU Fullerton**   
+- **🎓 CS & Data Science @ CSU Fullerton**   
 - **👻 Snap Academies 2025 Alumni @ Snap Inc.**  
 - **🎮 Valorant and Gym Enthusiast**  
 
