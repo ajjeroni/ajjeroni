@@ -24,7 +24,9 @@
 ---
 
 ### About Me  
-- **🎓 CS & Data Science @ CSU Fullerton**   
+- **🎓 CS & Data Science @ CSU Fullerton**
+- **🐸 SWE Intern @ Metal Toad
+- **📊 Prev Data Science Intern @ 9 Dots**
 - **👻 Snap Academies 2025 Alumni @ Snap Inc.**  
 - **🎮 Video Game and Gym Enthusiast**  
 
