@@ -25,9 +25,10 @@
 
 ### About Me  
 - **🎓 CS & Data Science @ CSU Fullerton**
-- **🐸 SWE Intern @ Metal Toad**
+- **π Math Supplemental Instruction Leader @ CSU Fullerton**
+- **🐸 Prev SWE Intern @ Metal Toad**
 - **📊 Prev Data Science Intern @ 9 Dots**
-- **👻 Prev Software Engineer Scholar @ Snap Inc.**  
+- **👻 Prev Software Engineering Scholar @ Snap Inc.**  
 - **🤩 Math, DSA, Video Game and Gym Enthusiast**  
 
 ---
